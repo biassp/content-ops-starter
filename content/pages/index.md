@@ -10,43 +10,18 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
+    text: |+
       ## Featured Articles
 
+      1.  The Future of Technology
 
-      ### The Future of Technology
+      2.  The Art of Mindfulness
 
+      3.  Exploring the Cosmos
 
-      Discover how emerging technologies are shaping our world and what to
-      expect in the years to come.
+      4.  Culinary Adventures
 
-
-      ### The Art of Mindfulness
-
-
-      Learn about the practice of mindfulness and how it can enhance your daily
-      life.
-
-
-      ### Exploring the Cosmos
-
-
-      A journey through the stars and the latest discoveries in space
-      exploration.
-
-
-      ### Culinary Adventures
-
-
-      From traditional recipes to modern culinary trends, explore the world of
-      food and cooking.
-
-
-      ### Cultural Insights
-
-
-      Gain a deeper understanding of diverse cultures and their unique
-      traditions.
+      5.  Cultural Insights
 
     actions:
       - label: Get started
