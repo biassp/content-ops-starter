@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        # Article About AnythingExplore a world of diverse topics and intriguing
+        Article About AnythingExplore a world of diverse topics and intriguing
         insights.
       color: text-dark
       type: TitleBlock
