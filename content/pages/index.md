@@ -7,7 +7,7 @@ sections:
       text: >-
         Article About AnythingExplore a world of diverse topics and intriguing
         insights.
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: |+
